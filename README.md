@@ -1,1 +1,1 @@
-# Comparison-of-CDMA-FDMA-for-multi-satellite-Communication
+# Comparison-of-CDMA-and-FDMA-for-multi-satellite-Communication
